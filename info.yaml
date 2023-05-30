@@ -1,0 +1,14 @@
+project:
+  name: 'Motero2k test project'
+  owner: 'motero2k'
+  teamId: 'mk-20'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
+    heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
+  members:
+    member1:
+      name: 'Manuel'
+      surname: 'Otero' 
+      githubUsername: 'motero2k'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
